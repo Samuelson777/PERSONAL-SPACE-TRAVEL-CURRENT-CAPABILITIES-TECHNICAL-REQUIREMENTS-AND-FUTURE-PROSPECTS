@@ -197,7 +197,7 @@ You are free to share and adapt this material with proper attribution.
 | Property | Value |
 |----------|-------|
 | Version | 1.0 |
-| Last Updated | 2024 |
+| Last Updated | 2026 |
 | Total Words | 25,000+ |
 | Tables | 40+ |
 | Sections | 18 |
