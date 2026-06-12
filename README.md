@@ -112,7 +112,7 @@ The paper comprehensively addresses:
 
 ## Timeline Projections
 
-### Near-Term (2024-2035)
+### Near-Term (2026-2035)
 - Suborbital tourism expansion
 - Commercial space stations
 - Advanced propulsion testing
@@ -201,6 +201,19 @@ You are free to share and adapt this material with proper attribution.
 | Total Words | 25,000+ |
 | Tables | 40+ |
 | Sections | 18 |
+
+---
+
+## 🎓 Citations
+If you use this research paper, please cite:
+
+@book{personal-spacetravel-2026,
+  title={Personal Space Travel: Current Capabilities, Technical Requirements, and Future Prospects},
+  author={SAMUELSON G},
+  year={2026},
+  publisher={Open Access Publishing},
+  url={https://github.com/Samuelson777/PERSONAL-SPACE-TRAVEL-CURRENT-CAPABILITIES-TECHNICAL-REQUIREMENTS-AND-FUTURE-PROSPECTS}
+}
 
 ---
 
