@@ -205,15 +205,11 @@ You are free to share and adapt this material with proper attribution.
 ---
 
 ## 🎓 Citations
-If you use this research paper, please cite:
+If you use this research paper, please cite appropriately:
+**Academic Citation:**
 
-@book{personal-spacetravel-2026,
-  title={Personal Space Travel: Current Capabilities, Technical Requirements, and Future Prospects},
-  author={SAMUELSON G},
-  year={2026},
-  publisher={Open Access Publishing},
-  url={https://github.com/Samuelson777/PERSONAL-SPACE-TRAVEL-CURRENT-CAPABILITIES-TECHNICAL-REQUIREMENTS-AND-FUTURE-PROSPECTS}
-}
+SAMUELSON G. 2026. Personal Space Travel: Current Capabilities, Technical Requirements, and 
+Future Prospects. A Comprehensive Research Paper on Individual Spaceflight Using Privately-Owned Spacecraft.
 
 ---
 
