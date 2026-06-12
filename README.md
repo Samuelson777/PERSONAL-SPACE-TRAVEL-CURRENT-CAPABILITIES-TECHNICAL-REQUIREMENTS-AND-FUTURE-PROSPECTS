@@ -2881,29 +2881,25 @@ v² = μ(2/r - 1/a)
 
 ## Copyright Statement
 
-Copyright © [Year] [Author Name]. All rights reserved.
+Copyright © 2026 SAMUELSON G. All rights reserved.
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 ## Publication Data
 
-**First Published**: [Year]
+**First Published**: 2026
 
 **Edition**: First Edition
 
-**ISBN**: [To be assigned]
-
 **Citation Format**:
 
-[Author Name]. (Year). *Personal Space Travel: Current Capabilities, Technical Requirements, and Future Prospects*. [Publisher Name].
+SAMUELSON G. 2026. *Personal Space Travel: Current Capabilities, Technical Requirements, and Future Prospects*. [Publisher Name].
 
 ## Corresponding Author
 
-[Author Name]
-[Institutional Affiliation]
-[Address]
-[Email]
-[Phone]
+SAMUELSON G
+Independent Researcher
+gsamuelsonguna@gmail.com
 
 ## Acknowledgments
 
@@ -2911,11 +2907,11 @@ The author acknowledges the contributions of NASA, SpaceX, Blue Origin, Virgin G
 
 ## Funding Sources
 
-[To be listed if applicable]
+No external funding was received for this work. 
 
 ## Conflict of Interest Declaration
 
-The author declares no conflict of interest.
+The author declares no conflict of interest. Except just out of curiosity about traveling in space alone.
 
 ---
 
