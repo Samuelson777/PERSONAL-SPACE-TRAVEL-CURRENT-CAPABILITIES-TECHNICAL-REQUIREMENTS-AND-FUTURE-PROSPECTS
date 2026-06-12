@@ -2,6 +2,8 @@
 
 A Comprehensive Research Paper on Individual Spaceflight Using Privately-Owned Spacecraft
 
+---
+
 **Author:** SAMUELSON G
 
 Independent Researcher
