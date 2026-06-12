@@ -2,6 +2,11 @@
 
 A Comprehensive Research Paper on Individual Spaceflight Using Privately-Owned Spacecraft
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language: English](https://img.shields.io/badge/Language-English-blue.svg)]()
+[![Total Words: 25,000+](https://img.shields.io/badge/Words-25%2C000%2B-green.svg)]()
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-success.svg)]()
+
 ---
 
 **Author:** SAMUELSON G
