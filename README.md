@@ -2582,7 +2582,7 @@ v² = μ(2/r - 1/a)
 **Table F.1: Crewed Spacecraft Comparison Table**
 
 | Specification | Crew Dragon | CST-100 Starliner | Soyuz-2 | Shenzhou | New Shepard | SpaceShipTwo |
-|---------------|-------------|------------------|----------|---------|-----------|-------------|--------------|
+|---------------|-------------|------------------|----------|---------|-----------|-------------|
 | **Operator** | SpaceX | Boeing | Roscosmos | CNSA | Blue Origin | Virgin Galactic |
 | **Crew Capacity** | 4-7 | 4-6 | 3 | 3 | 6 | 2 pilots + 4 |
 | **Length (m)** | 8.1 | 5.0 | 7.3 | 9.3 | 16.0 | 18.0 |
