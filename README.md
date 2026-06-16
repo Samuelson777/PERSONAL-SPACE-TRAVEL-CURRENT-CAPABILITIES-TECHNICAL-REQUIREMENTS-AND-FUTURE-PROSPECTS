@@ -2,6 +2,9 @@
 
 A Comprehensive Research Paper on Individual Spaceflight Using Privately-Owned Spacecraft
 
+[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.24298.89284-blue)](https://doi.org/10.13140/RG.2.2.24298.89284)  
+[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/20721496)  
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/168746728/PERSONAL_SPACE_TRAVEL_CURRENT_CAPABILITIES_TECHNICAL_REQUIREMENTS_AND_FUTURE_PROSPECTS_A_Comprehensive_Research_Paper_on_Individual_Spaceflight_Using_Privately_Owned_Spacecraft)  
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)]()
 [![Total Words: 25,000+](https://img.shields.io/badge/Words-25%2C000%2B-green.svg)]()
